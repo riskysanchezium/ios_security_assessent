@@ -1,1 +1,35 @@
+```gitignore
+# Logs
+*.log
 
+# Work directories
+ios-sat-workdir/
+backup-*/
+device-info-*/
+crash-reports-*/
+
+# SSH keys / creds
+id_rsa
+id_rsa.pub
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+*.o
+*.so
+*.a
