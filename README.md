@@ -61,3 +61,21 @@ git clone https://github.com/your-org/ios-sat.git
 cd ios-sat
 chmod +x ios-sat.sh
 ./ios-sat.sh
+```
+---
+
+## Usage
+The toolkit is menu‑driven. Dangerous operations require explicit user acknowledgment.
+
+## Legal Notice
+This project is provided for educational and authorized security testing purposes only.
+The authors assume no liability for misuse.
+
+## Credits
+
+libimobiledevice project
+checkra1n research team
+palera1n contributors
+Frida instrumentation framework
+---
+
